@@ -1,0 +1,17 @@
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\bin\Debug\netcoreapp3.1\10-Sorting.exe
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\bin\Debug\netcoreapp3.1\10-Sorting.deps.json
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\bin\Debug\netcoreapp3.1\10-Sorting.runtimeconfig.json
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\bin\Debug\netcoreapp3.1\10-Sorting.runtimeconfig.dev.json
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\bin\Debug\netcoreapp3.1\10-Sorting.dll
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\bin\Debug\netcoreapp3.1\10-Sorting.pdb
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\bin\Debug\netcoreapp3.1\_Utils.dll
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\bin\Debug\netcoreapp3.1\_Utils.pdb
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\obj\Debug\netcoreapp3.1\10-Sorting.csproj.AssemblyReference.cache
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\obj\Debug\netcoreapp3.1\10-Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\obj\Debug\netcoreapp3.1\10-Sorting.AssemblyInfoInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\obj\Debug\netcoreapp3.1\10-Sorting.AssemblyInfo.cs
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\obj\Debug\netcoreapp3.1\10-Sorting.csproj.CoreCompileInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\obj\Debug\netcoreapp3.1\10-Sorting.csproj.CopyComplete
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\obj\Debug\netcoreapp3.1\10-Sorting.dll
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\obj\Debug\netcoreapp3.1\10-Sorting.pdb
+C:\Users\danij\Source\Repos\ProjectFix\Sorting\obj\Debug\netcoreapp3.1\10-Sorting.genruntimeconfig.cache
