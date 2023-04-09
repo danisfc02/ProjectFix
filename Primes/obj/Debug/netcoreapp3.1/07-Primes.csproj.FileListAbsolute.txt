@@ -1,0 +1,14 @@
+C:\Users\danij\Source\Repos\ProjectFix\Primes\bin\Debug\netcoreapp3.1\07-Primes.exe
+C:\Users\danij\Source\Repos\ProjectFix\Primes\bin\Debug\netcoreapp3.1\07-Primes.deps.json
+C:\Users\danij\Source\Repos\ProjectFix\Primes\bin\Debug\netcoreapp3.1\07-Primes.runtimeconfig.json
+C:\Users\danij\Source\Repos\ProjectFix\Primes\bin\Debug\netcoreapp3.1\07-Primes.runtimeconfig.dev.json
+C:\Users\danij\Source\Repos\ProjectFix\Primes\bin\Debug\netcoreapp3.1\07-Primes.dll
+C:\Users\danij\Source\Repos\ProjectFix\Primes\bin\Debug\netcoreapp3.1\07-Primes.pdb
+C:\Users\danij\Source\Repos\ProjectFix\Primes\obj\Debug\netcoreapp3.1\07-Primes.csproj.AssemblyReference.cache
+C:\Users\danij\Source\Repos\ProjectFix\Primes\obj\Debug\netcoreapp3.1\07-Primes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danij\Source\Repos\ProjectFix\Primes\obj\Debug\netcoreapp3.1\07-Primes.AssemblyInfoInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\Primes\obj\Debug\netcoreapp3.1\07-Primes.AssemblyInfo.cs
+C:\Users\danij\Source\Repos\ProjectFix\Primes\obj\Debug\netcoreapp3.1\07-Primes.csproj.CoreCompileInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\Primes\obj\Debug\netcoreapp3.1\07-Primes.dll
+C:\Users\danij\Source\Repos\ProjectFix\Primes\obj\Debug\netcoreapp3.1\07-Primes.pdb
+C:\Users\danij\Source\Repos\ProjectFix\Primes\obj\Debug\netcoreapp3.1\07-Primes.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\bin\Debug\netcoreapp3.1\06-Palindrome.exe
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\bin\Debug\netcoreapp3.1\06-Palindrome.deps.json
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\bin\Debug\netcoreapp3.1\06-Palindrome.runtimeconfig.json
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\bin\Debug\netcoreapp3.1\06-Palindrome.runtimeconfig.dev.json
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\bin\Debug\netcoreapp3.1\06-Palindrome.dll
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\bin\Debug\netcoreapp3.1\06-Palindrome.pdb
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\obj\Debug\netcoreapp3.1\06-Palindrome.csproj.AssemblyReference.cache
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\obj\Debug\netcoreapp3.1\06-Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\obj\Debug\netcoreapp3.1\06-Palindrome.AssemblyInfoInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\obj\Debug\netcoreapp3.1\06-Palindrome.AssemblyInfo.cs
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\obj\Debug\netcoreapp3.1\06-Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\obj\Debug\netcoreapp3.1\06-Palindrome.dll
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\obj\Debug\netcoreapp3.1\06-Palindrome.pdb
+C:\Users\danij\Source\Repos\ProjectFix\Palindrome\obj\Debug\netcoreapp3.1\06-Palindrome.genruntimeconfig.cache

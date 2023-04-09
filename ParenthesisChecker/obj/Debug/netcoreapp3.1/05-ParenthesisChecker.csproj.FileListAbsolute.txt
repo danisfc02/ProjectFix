@@ -1,0 +1,14 @@
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.exe
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.deps.json
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.runtimeconfig.json
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.runtimeconfig.dev.json
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.dll
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\bin\Debug\netcoreapp3.1\05-ParenthesisChecker.pdb
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.csproj.AssemblyReference.cache
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.AssemblyInfoInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.AssemblyInfo.cs
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.csproj.CoreCompileInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.dll
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.pdb
+C:\Users\danij\Source\Repos\ProjectFix\ParenthesisChecker\obj\Debug\netcoreapp3.1\05-ParenthesisChecker.genruntimeconfig.cache

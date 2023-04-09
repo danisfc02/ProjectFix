@@ -27,7 +27,7 @@ namespace ParenthesisChecker
                 if(text[i] != search)
                     amount++;
             }
-            return amount;
+            return search;
         }
     }
 }

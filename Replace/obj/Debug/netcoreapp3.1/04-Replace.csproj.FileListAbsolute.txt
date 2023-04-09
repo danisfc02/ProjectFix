@@ -1,0 +1,14 @@
+C:\Users\danij\Source\Repos\ProjectFix\Replace\bin\Debug\netcoreapp3.1\04-Replace.exe
+C:\Users\danij\Source\Repos\ProjectFix\Replace\bin\Debug\netcoreapp3.1\04-Replace.deps.json
+C:\Users\danij\Source\Repos\ProjectFix\Replace\bin\Debug\netcoreapp3.1\04-Replace.runtimeconfig.json
+C:\Users\danij\Source\Repos\ProjectFix\Replace\bin\Debug\netcoreapp3.1\04-Replace.runtimeconfig.dev.json
+C:\Users\danij\Source\Repos\ProjectFix\Replace\bin\Debug\netcoreapp3.1\04-Replace.dll
+C:\Users\danij\Source\Repos\ProjectFix\Replace\bin\Debug\netcoreapp3.1\04-Replace.pdb
+C:\Users\danij\Source\Repos\ProjectFix\Replace\obj\Debug\netcoreapp3.1\04-Replace.csproj.AssemblyReference.cache
+C:\Users\danij\Source\Repos\ProjectFix\Replace\obj\Debug\netcoreapp3.1\04-Replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danij\Source\Repos\ProjectFix\Replace\obj\Debug\netcoreapp3.1\04-Replace.AssemblyInfoInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\Replace\obj\Debug\netcoreapp3.1\04-Replace.AssemblyInfo.cs
+C:\Users\danij\Source\Repos\ProjectFix\Replace\obj\Debug\netcoreapp3.1\04-Replace.csproj.CoreCompileInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\Replace\obj\Debug\netcoreapp3.1\04-Replace.dll
+C:\Users\danij\Source\Repos\ProjectFix\Replace\obj\Debug\netcoreapp3.1\04-Replace.pdb
+C:\Users\danij\Source\Repos\ProjectFix\Replace\obj\Debug\netcoreapp3.1\04-Replace.genruntimeconfig.cache
