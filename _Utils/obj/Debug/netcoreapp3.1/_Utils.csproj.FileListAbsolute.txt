@@ -1,0 +1,10 @@
+C:\Users\danij\Source\Repos\ProjectFix\_Utils\bin\Debug\netcoreapp3.1\_Utils.deps.json
+C:\Users\danij\Source\Repos\ProjectFix\_Utils\bin\Debug\netcoreapp3.1\_Utils.dll
+C:\Users\danij\Source\Repos\ProjectFix\_Utils\bin\Debug\netcoreapp3.1\_Utils.pdb
+C:\Users\danij\Source\Repos\ProjectFix\_Utils\obj\Debug\netcoreapp3.1\_Utils.csproj.AssemblyReference.cache
+C:\Users\danij\Source\Repos\ProjectFix\_Utils\obj\Debug\netcoreapp3.1\_Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danij\Source\Repos\ProjectFix\_Utils\obj\Debug\netcoreapp3.1\_Utils.AssemblyInfoInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\_Utils\obj\Debug\netcoreapp3.1\_Utils.AssemblyInfo.cs
+C:\Users\danij\Source\Repos\ProjectFix\_Utils\obj\Debug\netcoreapp3.1\_Utils.csproj.CoreCompileInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\_Utils\obj\Debug\netcoreapp3.1\_Utils.dll
+C:\Users\danij\Source\Repos\ProjectFix\_Utils\obj\Debug\netcoreapp3.1\_Utils.pdb
