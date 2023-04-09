@@ -1,0 +1,14 @@
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\bin\Debug\netcoreapp3.1\01-InputOutput.exe
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\bin\Debug\netcoreapp3.1\01-InputOutput.deps.json
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\bin\Debug\netcoreapp3.1\01-InputOutput.runtimeconfig.json
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\bin\Debug\netcoreapp3.1\01-InputOutput.runtimeconfig.dev.json
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\bin\Debug\netcoreapp3.1\01-InputOutput.dll
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\bin\Debug\netcoreapp3.1\01-InputOutput.pdb
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\obj\Debug\netcoreapp3.1\01-InputOutput.csproj.AssemblyReference.cache
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\obj\Debug\netcoreapp3.1\01-InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\obj\Debug\netcoreapp3.1\01-InputOutput.AssemblyInfoInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\obj\Debug\netcoreapp3.1\01-InputOutput.AssemblyInfo.cs
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\obj\Debug\netcoreapp3.1\01-InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\obj\Debug\netcoreapp3.1\01-InputOutput.dll
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\obj\Debug\netcoreapp3.1\01-InputOutput.pdb
+C:\Users\danij\Source\Repos\ProjectFix\InputOutput\obj\Debug\netcoreapp3.1\01-InputOutput.genruntimeconfig.cache

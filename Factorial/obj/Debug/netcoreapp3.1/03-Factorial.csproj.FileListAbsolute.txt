@@ -1,0 +1,14 @@
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.exe
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.deps.json
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.runtimeconfig.json
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.runtimeconfig.dev.json
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.dll
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\bin\Debug\netcoreapp3.1\03-Factorial.pdb
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.csproj.AssemblyReference.cache
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.AssemblyInfoInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.AssemblyInfo.cs
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.csproj.CoreCompileInputs.cache
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.dll
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.pdb
+C:\Users\danij\Source\Repos\ProjectFix\Factorial\obj\Debug\netcoreapp3.1\03-Factorial.genruntimeconfig.cache
